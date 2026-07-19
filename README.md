@@ -1,7 +1,6 @@
 # Bariatric Health Care
 
-A new Flutter project.
+Este repositório contém o código-fonte do aplicativo Bariatric Health Care (BHC). O objetivo principal e ajudar pacientes pos-cirurgia bariatrica a terem um recuperação mais e segura e aumentar a comunicação entre paciente e nutricionista (desenvolvido via FlutterFlow) 
 
-## Getting Started
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+
